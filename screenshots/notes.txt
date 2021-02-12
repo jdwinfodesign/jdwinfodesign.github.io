@@ -1,0 +1,7 @@
+Observing HTML5 output with two CSS stylesheets.
+
+	<link rel="stylesheet" type="text/css" href="css/commonltr.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+
+In folder 01: Files using both, in either order, and with each individually.
+
